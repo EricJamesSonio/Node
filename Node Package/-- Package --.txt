@@ -1,3 +1,0 @@
-[creating package.json]
-npm init -y ( to automatically)
-npm init (to ask you to customize the package)
